@@ -16,7 +16,7 @@ Today i have worked on: // at evening after 7
  
 ########### ----------- Road map ----------- ###########
 
-# Basics python (week - 1)
+# Basics python (week - 1) -- 27 / 05 / 2026
 01_basics.py
 -- ittretion_tools
 02_variables.py
@@ -33,7 +33,7 @@ Today i have worked on: // at evening after 7
 11_file_handling.py
 12_exception_handling.py
 
-# Functional Programming (week - 2)
+# Functional Programming (week - 3)
 13_lambda_functions.py
 14_map_filter_reduce.py
 15_list_comprehensions.py
