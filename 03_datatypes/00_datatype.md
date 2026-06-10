@@ -41,6 +41,25 @@ from numpy import np
 print("Hello Govind")
 ```
 
+| Data Type             | Properties                                                                              |
+| --------------------- | --------------------------------------------------------------------------------------- |
+| **int**               | Immutable, Numeric Type, Supports Arithmetic Operations, Unlimited Size                 |
+| **float**             | Immutable, Numeric Type, Stores Decimal Values, Supports Arithmetic Operations          |
+| **complex**           | Immutable, Numeric Type, Contains Real and Imaginary Parts (`a+bj`)                     |
+| **bool**              | Immutable, Only `True` and `False`, Subclass of `int`                                   |
+| **str**               | Immutable, Ordered, Indexed, Slicable, Iterable, Duplicate Characters Allowed           |
+| **list**              | Mutable, Ordered, Indexed, Slicable, Iterable, Duplicates Allowed, Heterogeneous        |
+| **tuple**             | Immutable, Ordered, Indexed, Slicable, Iterable, Duplicates Allowed, Heterogeneous      |
+| **set**               | Mutable, Unordered, Unindexed, No Slicing, Unique Elements Only, Iterable, Fast Lookup  |
+| **frozenset**         | Immutable, Unordered, Unindexed, No Slicing, Unique Elements Only, Hashable             |
+| **dict**              | Mutable, Ordered (Python 3.7+), Key-Value Pair, Keys Must Be Unique, Fast Lookup by Key |
+| **bytes**             | Immutable, Ordered, Indexed, Slicable, Stores Binary Data (0–255)                       |
+| **bytearray**         | Mutable, Ordered, Indexed, Slicable, Stores Binary Data (0–255)                         |
+| **range**             | Immutable, Ordered, Indexed, Iterable, Generates Sequence of Numbers Lazily             |
+| **NoneType (`None`)** | Immutable, Represents Absence of Value, Singleton Object                                |
+
+
+
 | Data Type    | Category | Mutable | Ordered  | Indexed | Duplicate Allowed | Hashable | Iterable | Size Fixed | Example              |
 | ------------ | -------- | ------- | -------- | ------- | ----------------- | -------- | -------- | ---------- | -------------------- |
 | `int`        | Numeric  | ❌       | ❌        | ❌       | N/A               | ✅        | ❌        | ❌          | `10`                 |
