@@ -40,3 +40,21 @@
 from numpy import np
 print("Hello Govind")
 ```
+
+| Data Type    | Category | Mutable | Ordered  | Indexed | Duplicate Allowed | Hashable | Iterable | Size Fixed | Example              |
+| ------------ | -------- | ------- | -------- | ------- | ----------------- | -------- | -------- | ---------- | -------------------- |
+| `int`        | Numeric  | ❌       | ❌        | ❌       | N/A               | ✅        | ❌        | ❌          | `10`                 |
+| `float`      | Numeric  | ❌       | ❌        | ❌       | N/A               | ✅        | ❌        | ❌          | `10.5`               |
+| `complex`    | Numeric  | ❌       | ❌        | ❌       | N/A               | ✅        | ❌        | ❌          | `3+4j`               |
+| `bool`       | Boolean  | ❌       | ❌        | ❌       | N/A               | ✅        | ❌        | ✅          | `True`               |
+| `str`        | Sequence | ❌       | ✅        | ✅       | ✅                 | ✅        | ✅        | ❌          | `"Python"`           |
+| `list`       | Sequence | ✅       | ✅        | ✅       | ✅                 | ❌        | ✅        | ❌          | `[1,2,3]`            |
+| `tuple`      | Sequence | ❌       | ✅        | ✅       | ✅                 | ✅*       | ✅        | ✅          | `(1,2,3)`            |
+| `range`      | Sequence | ❌       | ✅        | ✅       | ❌                 | ✅        | ✅        | ✅          | `range(5)`           |
+| `set`        | Set      | ✅       | ❌        | ❌       | ❌                 | ❌        | ✅        | ❌          | `{1,2,3}`            |
+| `frozenset`  | Set      | ❌       | ❌        | ❌       | ❌                 | ✅        | ✅        | ✅          | `frozenset({1,2,3})` |
+| `dict`       | Mapping  | ✅       | ✅ (3.7+) | ❌       | Keys ❌ Values ✅   | ❌        | ✅        | ❌          | `{"a":1}`            |
+| `bytes`      | Binary   | ❌       | ✅        | ✅       | ✅                 | ✅        | ✅        | ✅          | `b"abc"`             |
+| `bytearray`  | Binary   | ✅       | ✅        | ✅       | ✅                 | ❌        | ✅        | ❌          | `bytearray(b"abc")`  |
+| `memoryview` | Binary   | Depends | ✅        | ✅       | ✅                 | ❌        | ✅        | ❌          | `memoryview(b"abc")` |
+| `NoneType`   | Special  | ❌       | ❌        | ❌       | N/A               | ✅        | ❌        | ✅          | `None`               |
