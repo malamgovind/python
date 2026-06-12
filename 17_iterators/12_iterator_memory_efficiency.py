@@ -1,0 +1,10 @@
+num = iter(range(10000))
+
+print(next(num))
+print(next(num))
+print(next(num))
+print(next(num))
+print(next(num))
+print(next(num))
+print(next(num))
+print(next(num))
