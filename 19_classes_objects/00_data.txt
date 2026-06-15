@@ -1,0 +1,11 @@
+Instance Of Class
+
+Stores Data
+
+Has Unique Memory Address
+
+Can Access Methods
+
+Can Access Attributes
+
+Created From Class
