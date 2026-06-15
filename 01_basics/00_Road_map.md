@@ -9,9 +9,7 @@ Today i have worked on: // at evening after 7
  - Practiced variables and data types
  - Worked with operators and input/output functions
  grp ( send me this on ) python learing group chalo age  
-
-જો તને જોઈએ તો હું 08_lists.py નો full revision PDF style notes પણ બનાવી આપી શકું 👍
-
+ 
  
  
 ########### ----------- Road map ----------- ###########
@@ -41,7 +39,7 @@ Today i have worked on: // at evening after 7
 17_iterators.py
 18_decorators.py
 
-# Object-Oriented Programming (OOP) (week - 3)
+# Object-Oriented Programming (OOP) (week - 4)
 19_classes_objects.py
 20_constructors.py
 21_inheritance.py
