@@ -1,0 +1,22 @@
+Inheritance
+
+-- એક Class ની Properties અને Methods
+બીજી Class માં મેળવવાની પ્રક્રિયાને
+Inheritance કહે છે.
+
+│
+├── Parent Class
+│
+├── Child Class
+│
+├── Method Inheritance
+│
+├── Attribute Inheritance
+│
+├── Method Overriding
+│
+├── MRO
+│
+├── Code Reusability
+│
+└── IS-A Relationship
