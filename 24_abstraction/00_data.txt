@@ -1,0 +1,2 @@
+Abstract Class નો ઉપયોગ "Rule Book" બનાવવા માટે થાય છે, 
+જેથી બધા Child Classes જરૂરી methods જરૂર implement કરે અને code માં consistency રહે.
