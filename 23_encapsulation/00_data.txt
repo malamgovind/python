@@ -1,0 +1,21 @@
+Encapsulation એ OOP નો એવો Concept છે જેમાં Data અને Methods ને એક Class માં બાંધીને Data ને Direct Access થી સુરક્ષિત રાખવામાં આવે છે અને માત્ર Controlled Interface દ્વારા Access આપવામાં આવે છે.
+
+-- Data ને સુરક્ષિત રાખીને માત્ર નિયંત્રિત રીતે Access કરવાની પ્રક્રિયાને Encapsulation કહે છે.
+
+Encapsulation
+│
+├── Data Binding
+│
+├── Data Hiding
+│
+├── Access Control
+│
+├── Security
+│
+├── Getters
+│
+├── Setters
+│
+├── Validation
+│
+└── Data Integrity
