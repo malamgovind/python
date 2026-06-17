@@ -1,0 +1,34 @@
+-- Polymorphism એ OOP નો એવો Concept છે જેમાં એક જ Interface અથવા Method વિવિધ Objects માટે અલગ-અલગ Behavior પ્રદાન કરે છે, જેથી Flexibility, Reusability અને Dynamic Runtime Behavior પ્રાપ્ત થાય છે.
+
+-- એક જ Interface અથવા Method ઘણા અલગ-અલગ રૂપોમાં વર્તે તેને Polymorphism કહે છે.
+
+-- Polymorphism એ OOP નો Concept છે જેમાં એક જ Method Name અથવા Interface અલગ Objects માટે અલગ Behavior પ્રદાન કરે છે.
+
+Polymorphism
+│
+├── Common Interface
+│
+├── Runtime Dispatch
+│
+├── Method Overriding
+│
+├── Duck Typing
+│
+├── Dynamic Binding
+│
+├── MRO
+│
+├── Flexibility
+│
+└── Extensibility
+
+-----------
+એક Operator ઘણા Forms = Polymorphism
+
++
+
+Numbers માટે Addition
+
+Strings માટે Concatenation
+
+Lists માટે Merge

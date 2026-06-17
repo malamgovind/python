@@ -1,3 +1,9 @@
+# -- python ma class nu nam capical vagar pan rakhi sakiye pan 
+# -- convention na karane aena pelo capital karrvo jaruri che 
+# -- class ne odakhav mate
+# Class Names → PascalCase (દરેક શબ્દનું પ્રથમ અક્ષર Capital)
+# Functions/Variables → snake_case (નાના અક્ષર + underscore)
+
 Instance Of Class
 
 Stores Data
