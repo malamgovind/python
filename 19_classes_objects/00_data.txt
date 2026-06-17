@@ -4,6 +4,7 @@
 # Class Names → PascalCase (દરેક શબ્દનું પ્રથમ અક્ષર Capital)
 # Functions/Variables → snake_case (નાના અક્ષર + underscore)
 
+
 Instance Of Class
 
 Stores Data
