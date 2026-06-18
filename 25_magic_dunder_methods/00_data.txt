@@ -1,0 +1,42 @@
+Magic (Dunder) Methods એ Python ના Special Double-Underscore Methods છે 
+જે Object નું Built-in Operations, Operators અને Runtime Behavior સાથેનું 
+Integration અને Customization નિયંત્રિત કરે છે.
+
+* : Python જ્યારે Object પર કોઈ Special Operation કરે છે ત્યારે તે પાછળથી Magic Method Call કરે છે.
+---------
+
+Magic Method શું છે?
+
+Python નો Special Method જે Runtime માં Automatically Call થાય.
+
+----------
+
+Magic Methods
+│
+├── Object Creation
+├── String Representation
+├── Comparison
+├── Arithmetic
+├── Container
+├── Attribute Access
+├── Callable
+└── Context Manager
+---------------------------
+
+**  Magic Methods Properties  **
+
+Special Methods
+
+Auto Called
+
+Customize Object Behavior
+
+Operator Overloading
+
+Readable Objects
+
+Works With Built-in Functions
+
+Supports Polymorphism
+
+Supports OOP
