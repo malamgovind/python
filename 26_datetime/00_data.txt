@@ -1,0 +1,11 @@
+| Code | Meaning    |
+| ---- | ---------- |
+| %d   | Day        |
+| %m   | Month      |
+| %Y   | Year       |
+| %y   | Short Year |
+| %H   | Hour       |
+| %M   | Minute     |
+| %S   | Second     |
+| %A   | Day Name   |
+| %B   | Month Name |
