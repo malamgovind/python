@@ -1,0 +1,36 @@
+** -- Python print() string ને print કરતી વખતે બહારના quotes (' ') બતાવતું નથી, એટલે તમને {} દેખાય છે. -- **
+
+
+
+
+memory flow
+ 
+ Python Dictionary
+↓
+json.dumps()
+↓
+JSON String
+↓
+json.loads()
+↓
+Python Dictionary
+
+---------------
+JSON શું છે?
+JSON
+↓
+JavaScript Object Notation
+↓
+Data Store અને Data Transfer માટે વપરાય છે.
+
+------------------------
+
+**
+JSON (JavaScript Object Notation) એ Lightweight, Human-Readable અને 
+Machine-Readable Data Exchange Format છે જે Applications, APIs, Servers અને 
+Databases વચ્ચે Structured Data Transfer કરવા માટે ઉપયોગ થાય છે.
+**
+-------
+એક System માંથી બીજા System માં Data મોકલવા અને Store કરવા માટે વપરાતું 
+Lightweight Text Format એટલે JSON.
+-------
