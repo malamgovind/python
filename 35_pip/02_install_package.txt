@@ -1,0 +1,13 @@
+PIP
+
+↓
+
+Package Installer for Python
+
+↓
+
+Internet પરથી
+
+Python Packages
+
+Install, Update અને Remove કરવા માટે વપરાય છે.

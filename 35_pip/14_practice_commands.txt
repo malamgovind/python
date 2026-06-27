@@ -1,0 +1,7 @@
+pip --version
+pip list
+pip show requests
+pip freeze
+pip install requests
+pip uninstall requests
+pip install -r requirements.txt

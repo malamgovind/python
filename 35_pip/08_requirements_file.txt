@@ -1,0 +1,7 @@
+requests==2.32.5
+
+Project માં ઉપયોગ થયેલા
+
+બધા Packages
+
+અહીં Store થાય છે.
