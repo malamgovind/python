@@ -1,0 +1,14 @@
+pip install -r requirements.txt
+
+
+memory flow :
+
+# requirements.txt
+
+# ↓
+
+# pip install -r
+
+# ↓
+
+# All Packages Installed

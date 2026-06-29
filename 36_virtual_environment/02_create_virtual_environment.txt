@@ -1,0 +1,19 @@
+python3 -m venv venv
+
+memory flow : 
+
+python -m venv venv
+
+↓
+
+venv Folder
+
+↓
+
+bin/
+
+lib/
+
+include/
+
+pyvenv.cfg

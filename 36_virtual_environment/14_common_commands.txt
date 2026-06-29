@@ -1,0 +1,8 @@
+python -m venv venv
+source venv/bin/activate
+deactivate
+pip install requests
+pip freeze > requirements.txt
+pip install -r requirements.txt
+pip list
+rm -rf venv

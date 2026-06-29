@@ -1,0 +1,9 @@
+project/
+
+│
+├── venv/
+├── main.py
+├── requirements.txt
+├── .gitignore
+├── README.md
+└── app/

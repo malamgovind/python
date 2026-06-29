@@ -1,0 +1,9 @@
+✔ દરેક Project માટે અલગ venv બનાવો
+
+✔ requirements.txt રાખો
+
+✔ venv GitHub પર Push ન કરો
+
+✔ Project શરૂ કરતા પહેલા venv Activate કરો
+
+✔ Project પૂરું થાય પછી deactivate કરો

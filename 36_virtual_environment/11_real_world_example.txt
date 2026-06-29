@@ -1,0 +1,46 @@
+New Laptop Setup
+git clone project
+
+↓
+
+cd project
+
+↓
+
+python -m venv venv
+
+↓
+
+source venv/bin/activate
+
+↓
+
+pip install -r requirements.txt
+
+↓
+
+python main.py
+
+
+--------------------
+Memory Flow
+
+GitHub Project
+↓
+Clone
+
+↓
+
+Create venv
+
+↓
+
+Activate
+
+↓
+
+Install Packages
+
+↓
+
+Run Project

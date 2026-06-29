@@ -1,0 +1,17 @@
+Virtual Environment એટલે
+
+Project માટે અલગ Python Environment.
+
+દરેક Project પોતાના Packages રાખે છે.
+
+
+Important Commands
+Command	Use
+python -m venv venv	            :   Create Virtual Environment
+source venv/bin/activate	    :   Activate (Linux/macOS)
+venv\Scripts\activate	        :   Activate (Windows CMD)
+deactivate	                    :   Exit Virtual Environment
+pip list	                    :   Show Installed Packages
+pip freeze > requirements.txt	:   Save Dependencies
+pip install -r requirements.txt	:   Install Dependencies
+rm -rf venv	                    :   Delete Virtual Environment

@@ -1,0 +1,21 @@
+Create venv
+
+↓
+
+Activate
+
+↓
+
+Install Packages
+
+↓
+
+Develop Project
+
+↓
+
+Freeze Packages
+
+↓
+
+Deactivate
