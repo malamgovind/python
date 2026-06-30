@@ -65,11 +65,11 @@ Today i have worked on: // at evening after 7
 35_pip.py
 36_virtual_environment.py
 
-# Testing & Debugging (week - 5)
+# Testing & Debugging (week - 6)
 37_debugging.py
 38_unit_testing.py
 
-# Concurrency (week - 5)
+# Concurrency (week - 6)
 39_multithreading.py
 40_multiprocessing.py
 41_asyncio.py
@@ -78,7 +78,7 @@ Today i have worked on: // at evening after 7
 42_requests_module.py
 43_rest_api.py
 
-# Projects & Practice (week - 6)
+# Projects & Practice (week - 7)
 44_mini_project_1.py
 45_mini_project_2.py
 46_mini_project_3.py
@@ -93,7 +93,7 @@ Today i have worked on: // at evening after 7
 53_tree.py
 54_graph.py
 
-# Optional Next Steps (week - 7)
+# Optional Next Steps (week - 8)
 55_numpy.py
 56_pandas.py
 57_matplotlib.py
